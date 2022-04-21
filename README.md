@@ -1,0 +1,2 @@
+# Object_Discovery_From_a_Image_by_Mining_Frequent_Itemsets
+Object Mining project for DWDM
