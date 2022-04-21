@@ -1,2 +1,2 @@
-# Object_Discovery_From_a_Image_by_Mining_Frequent_Itemsets
-Object Mining project for DWDM
+## Object Discovery From a Image by Mining Frequent Itemsets
+#### Object Mining project for DWDM
